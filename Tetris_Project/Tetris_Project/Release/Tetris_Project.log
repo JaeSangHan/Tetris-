@@ -1,0 +1,25 @@
+﻿  stdafx.cpp
+  FrameSkip.cpp
+  Ingame.cpp
+c:\users\js\desktop\그램노트북\프로그래밍\2학년 프로그래밍\tetris_project_최종\tetris_project\ingame.cpp(426): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\users\js\desktop\그램노트북\프로그래밍\2학년 프로그래밍\tetris_project_최종\tetris_project\ingame.cpp(426): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+c:\users\js\desktop\그램노트북\프로그래밍\2학년 프로그래밍\tetris_project_최종\tetris_project\ingame.cpp(430): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\users\js\desktop\그램노트북\프로그래밍\2학년 프로그래밍\tetris_project_최종\tetris_project\ingame.cpp(430): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+c:\users\js\desktop\그램노트북\프로그래밍\2학년 프로그래밍\tetris_project_최종\tetris_project\ingame.cpp(434): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\users\js\desktop\그램노트북\프로그래밍\2학년 프로그래밍\tetris_project_최종\tetris_project\ingame.cpp(434): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+c:\users\js\desktop\그램노트북\프로그래밍\2학년 프로그래밍\tetris_project_최종\tetris_project\ingame.cpp(438): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\users\js\desktop\그램노트북\프로그래밍\2학년 프로그래밍\tetris_project_최종\tetris_project\ingame.cpp(438): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+c:\users\js\desktop\그램노트북\프로그래밍\2학년 프로그래밍\tetris_project_최종\tetris_project\ingame.cpp(456): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\js\desktop\그램노트북\프로그래밍\2학년 프로그래밍\tetris_project_최종\tetris_project\ingame.cpp(458): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\js\desktop\그램노트북\프로그래밍\2학년 프로그래밍\tetris_project_최종\tetris_project\ingame.cpp(460): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MainMenu.cpp
+c:\users\js\desktop\그램노트북\프로그래밍\2학년 프로그래밍\tetris_project_최종\tetris_project\mainmenu.cpp(35): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\js\desktop\그램노트북\프로그래밍\2학년 프로그래밍\tetris_project_최종\tetris_project\mainmenu.cpp(36): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+  Tetris_Project.cpp
+  TimeManager.cpp
+  Util.cpp
+c:\users\js\desktop\그램노트북\프로그래밍\2학년 프로그래밍\tetris_project_최종\tetris_project\util.cpp(11): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  코드를 생성하고 있습니다.
+  All 49 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  Tetris_Project.vcxproj -> C:\Users\JS\Desktop\그램노트북\프로그래밍\2학년 프로그래밍\Tetris_Project_최종\Release\Tetris_Project.exe

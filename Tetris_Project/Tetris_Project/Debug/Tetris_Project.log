@@ -1,0 +1,4 @@
+﻿  MainMenu.cpp
+c:\users\js\desktop\그램노트북\프로그래밍\2학년 프로그래밍\tetris_project_최종\tetris_project\mainmenu.cpp(35): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\js\desktop\그램노트북\프로그래밍\2학년 프로그래밍\tetris_project_최종\tetris_project\mainmenu.cpp(36): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+  Tetris_Project.vcxproj -> C:\Users\JS\Desktop\그램노트북\프로그래밍\2학년 프로그래밍\Tetris_Project_최종\Debug\Tetris_Project.exe
